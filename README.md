@@ -2,6 +2,8 @@
 It is a small bank application with balance information, deposit and withdrawal functionality.
 The React application uses web3 to communicate with the private ethereum network.
 
+![DApp image](images/dapp_demo.png)
+
 # Installation 
 Run the development console. I use truffle for this.
 ```
